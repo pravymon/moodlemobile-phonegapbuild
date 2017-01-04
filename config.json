@@ -1,5 +1,5 @@
 {
-    "app_id" : "net.moodle.learn",
+    "app_id" : "org.pravysoft.ezine",
     "versioncode" : "3",
     "versionname" : "1.2",
     "cache_expiration_time" : 300000,
@@ -8,6 +8,6 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "demo_sites": {},
-    "siteurl": "https://learn.moodle.net/",
+    "siteurl": "http://pravysoft.org/moodle/",
     "gcmpn": "learn-moodle-1159"
 }
